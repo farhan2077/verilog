@@ -1,3 +1,3 @@
 # Name Initial
 
-1. [name_initial_v1](/NAME%20INITIAL/name_initial_v1.v) - very bad implementation but it works!
+1. [NAME_INITIAL_v1](/NAME%20INITIAL/NAME_INITIAL_v1) - very bad implementation but it works!

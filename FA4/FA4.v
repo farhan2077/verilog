@@ -1,4 +1,4 @@
-module FA4(cin, a, b, s, co);
+module FA4 (cin, a, b, s, co);
 
 input wire cin;
 input wire [3:0] a, b;

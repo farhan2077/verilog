@@ -1,4 +1,4 @@
-module bcdadder_tb;
+module BCD_ADDER_tb;
 
 reg cin;
 reg[3:0]a,b;
@@ -12,6 +12,6 @@ begin
 #10   cin=1;    a=9;    b=9;
 end
 
-bcdadder bcdadins(.cin(cin), .a(a), .b(b), .led0(led0), .led1(led1));
+BCD_ADDER BCD_ADDER_ins(.cin(cin), .a(a), .b(b), .led0(led0), .led1(led1));
 
 endmodule

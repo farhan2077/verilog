@@ -1,4 +1,4 @@
-module bcdadder (cin,a,b,led0,led1);
+module BCD_ADDER (cin,a,b,led0,led1);
 
 input wire cin;
 input [3:0]a,b;

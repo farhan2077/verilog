@@ -13,5 +13,5 @@ begin
 #10   cin = 1;    a = 3;    b = 5;
 end
 
-FA4 FA4ins(.cin(cin), .a(a), .b(b), .s(s), .co(co));
+FA4 FA4_ins(.cin(cin), .a(a), .b(b), .s(s), .co(co));
 endmodule

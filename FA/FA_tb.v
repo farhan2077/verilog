@@ -15,7 +15,7 @@ begin
 #10   cin = 1;    ain = 1;    bin = 1;
 end 
 
-FA FAins(.cin(cin), .ain(ain), .bin(bin), .sout(sout), .cout(cout));
+FA FA_ins(.cin(cin), .ain(ain), .bin(bin), .sout(sout), .cout(cout));
 // FA(cin, ain, bin, sout, cout)
 
 endmodule
