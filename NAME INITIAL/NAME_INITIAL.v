@@ -1,4 +1,4 @@
-module NAME_INITIAL_v1 (x,y,z,led0,led1,led2);
+module NAME_INITIAL (x,y,z,led0,led1,led2);
 
 input [1:0]x,y,z;
 
